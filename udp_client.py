@@ -7,7 +7,7 @@ target_port = 80
 client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 #Send some data
-client.send("This is test dara", (target_host, target_port))
+client.send("This is test data", (target_host, target_port))
 
 #Receive some data
 data,adqr = client.recvfrom(4096)
