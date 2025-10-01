@@ -1,3 +1,3 @@
 # blackhat-python
 
-Aprenda e faça projetos básicos em Black Hat Python que podem ser úteis para você no futuro
+Learning and doing basic projects in BlackHat Python that may be useful to you in the future
